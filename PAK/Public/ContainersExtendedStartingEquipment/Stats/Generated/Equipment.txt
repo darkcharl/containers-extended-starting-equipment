@@ -30,7 +30,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -59,6 +59,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -101,7 +103,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -130,6 +132,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -174,7 +178,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -203,6 +207,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -243,7 +249,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -272,6 +278,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -314,7 +322,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -343,6 +351,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -383,7 +393,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -412,6 +422,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -460,7 +472,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -489,6 +501,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -537,7 +551,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -566,6 +580,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -614,7 +630,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -643,6 +659,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -691,7 +709,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -720,6 +738,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -764,7 +784,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -793,6 +813,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -841,7 +863,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -870,6 +892,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -910,7 +934,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -939,6 +963,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -979,7 +1005,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1008,6 +1034,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1048,7 +1076,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1077,6 +1105,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1117,7 +1147,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1146,6 +1176,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1186,7 +1218,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1215,6 +1247,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1263,7 +1297,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1292,6 +1326,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1327,7 +1363,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1356,6 +1392,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1373,7 +1411,7 @@ add equipment entry "OBJ_Bag_AlchemyPouch"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1402,6 +1440,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1444,7 +1484,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1473,6 +1513,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1515,7 +1557,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1544,6 +1586,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1582,7 +1626,7 @@ add equipment entry "OBJ_Bag_AlchemyPouch"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1611,6 +1655,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1649,7 +1695,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1678,6 +1724,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1732,7 +1780,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1761,6 +1809,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1803,7 +1853,7 @@ add equipment entry "OBJ_Bag_AlchemyPouch"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1832,6 +1882,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1878,7 +1930,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1907,6 +1959,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
@@ -1951,7 +2005,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -1980,6 +2034,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
