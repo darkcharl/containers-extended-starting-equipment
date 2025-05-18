@@ -21,6 +21,8 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
+add equipment entry "ARM_Camp_Pack"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
 add equipment entry "OBJ_Bag_AlchemyPouch"
@@ -95,6 +97,8 @@ add equipmentgroup
 add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "ARM_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -173,6 +177,8 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
+add equipment entry "ARM_Camp_Pack"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
 add equipment entry "OBJ_Bag_AlchemyPouch"
@@ -246,7 +252,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -323,7 +329,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -398,7 +404,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -485,7 +491,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -572,7 +578,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -659,7 +665,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -740,13 +746,11 @@ add equipment entry "OBJ_Keychain"
 add equipmentgroup
 add equipment entry "OBJ_Book_Paladin"
 add equipmentgroup
-add equipment entry "OBJ_Bag_AlchemyPouch"
-add equipmentgroup
 add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -825,7 +829,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -908,7 +912,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -983,7 +987,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -1058,7 +1062,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -1133,7 +1137,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -1208,7 +1212,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -1283,7 +1287,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -1360,17 +1364,13 @@ add equipment entry "WPN_Javelin"
 add equipmentgroup
 add equipment entry "WPN_Javelin"
 add equipmentgroup
-add equipment entry "OBJ_Keychain"
-add equipmentgroup
 add equipment entry "OBJ_Book_Paladin"
-add equipmentgroup
-add equipment entry "OBJ_Bag_AlchemyPouch"
 add equipmentgroup
 add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -1445,7 +1445,7 @@ add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -1528,8 +1528,6 @@ add equipment entry "ARM_Camp_Body_Astarion"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Astarion"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
-add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
 add equipment entry "OBJ_Bag_AlchemyPouch"
@@ -1601,8 +1599,6 @@ add equipmentgroup
 add equipment entry "ARM_Camp_Body_Minthara"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Minthara"
-add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -1735,8 +1731,6 @@ add equipment entry "ARM_Camp_Body_Gale"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Gale"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
-add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
 add equipment entry "OBJ_Bag_AlchemyPouch"
@@ -1816,7 +1810,7 @@ add equipment entry "ARM_Camp_Body_Halsin"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Halsin"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "ARM_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -1891,9 +1885,7 @@ add equipment entry "ARM_Camp_Body_Jaheira"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Jaheira"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
-add equipmentgroup
-add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipment entry "ARM_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -1966,7 +1958,7 @@ add equipment entry "ARM_Camp_Body_Karlach"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Karlach"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies"
+add equipment entry "OBJ_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
@@ -2131,6 +2123,8 @@ add equipmentgroup
 add equipment entry "ARM_Camp_Body_Minsc"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Minsc"
+add equipmentgroup
+add equipment entry "ARM_Camp_Pack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
