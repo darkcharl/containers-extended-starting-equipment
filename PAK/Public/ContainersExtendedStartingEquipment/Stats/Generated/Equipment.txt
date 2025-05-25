@@ -2205,6 +2205,10 @@ add equipment entry "ARM_Camp_Body_Shadowheart"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Shadowheart"
 add equipmentgroup
+add equipment entry "ARM_Underwear_Shadowheart"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
 add equipment entry "OBJ_Bag_AlchemyPouch"
@@ -2258,10 +2262,6 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Wardrobe"
-add equipmentgroup
-add equipment entry "ARM_Underwear_Shadowheart"
-add equipmentgroup
-add equipment entry "OBJ_Scroll_Revivify"
 
 new equipment "EQ_Wyll"
 add initialweaponset "Melee"
